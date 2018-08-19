@@ -6,26 +6,21 @@
 
 ### 1.	Início: ###
 
-Os temas disponíveis são:
+Tema Escolhido :
 
--	Linhas de trajetória de um escoamento fluido
--	Linhas de emissão de um escoamento fluido
--	Vorticidade
--	Efeito Magnus
--	Efeito de Bernoulli
-- Tubo Venturi
--	Placa de Orifício
--	Perda de Carga
--	Controle de Camada Limite
--	Turbulência em Fluidos
--	Experimentos em túnel de vento
+Tubo Venturi
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 19/08/2018**, contendo os seguintes tópicos:
+Objetivo do Experimento 
 
--	Integrantes do grupo;
--	Tema escolhido;
--	Objetivo do experimento – O que será medido ou determinado no experimento;
--	Escopo do experimento – Estabelecimento de tarefas mínimas para cumprir os objetivos do experimento;
+Aplicar o principio de Bernoulli de forma pratica, assim medindo a velocidade do escoamento e vazão do liquido incompressível, através da variação da pressão recorrente da variação da seção do tubo, de uma mais fina para uma mais larga.
+
+Escopo do Experimento 
+• Medir a variação de pressão entre varios pontos no tubo de Venturi
+•	Calcular a velocidade de escoamento do ar em diversos pontos do tubo, aplicando as equações da continuidade de Bernoulli
+•	Calcular a vazão em diversos pontos do tubo de Venturi
+•	Mostrar que a vazão permanece constante ao longo do tubo
+
+
 
 ### 2.	Planejamento e Preparação: ###
 
