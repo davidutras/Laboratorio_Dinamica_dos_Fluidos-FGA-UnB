@@ -56,11 +56,27 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
 ### 4.	Análise e conclusão: ###
 
+Relatório Dinâmica dos Fluidos - Grupo 12
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 18/11/2018**, contendo os seguintes tópicos:
+1. Início - Entrega 19/08/2018
 
--	Integrantes do grupo;
--	Apresentação dos dados medidos no experimento com seu respectivo erro experimental;
--	Apresentação de gráficos e sua respectiva análise;
--	Comparação dos resultados com a teoria envolvida;
--	Conclusões do experimento;
+Integrantes do grupo
+
+* Davi Matias Dutra da Silva - 12/0044871
+* Fernando Alves de Castro - 15/0059141
+* Mayra Carolina Pinto de Souza - 17/0053059
+
+Tema escolhido:
+Controle de Camada Limite
+
+Objetivos do experimento
+
+* Construir Aerofólio 
+* Demostrar Camada Limite e Zonas de turbulencia 
+* Medir Velocidade e temperatura do escoamento com anemômetro 
+
+Escopo do experimento
+* Construir um aerofólio de isopor e revesti-lo para experimentos no tunel de vento.
+* Verificar pontos de zona de turbulencia do aerofolio 
+
+
